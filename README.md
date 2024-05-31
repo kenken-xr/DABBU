@@ -47,6 +47,17 @@
 </p>
 
 <p align = "center">    
+  <img src="img/设置.jpg" width="30%" />
+  <img src="img/通用设置.jpg" width="30%" />
+  <img src="img/通知设置.jpg" width="30%" />
+</p>
+
+<p align = "center">    
+  <img src="img/修改密码.jpg" width="30%" />
+  <img src="img/账号与安全.jpg" width="30%" />
+</p>
+
+<p align = "center">    
   <img src="img/标签选择.jpg" width="30%" />
   <img src="img/查看他人主页.jpg" width="30%" />
   <img src="img/动态详情页.jpg" width="30%" />
