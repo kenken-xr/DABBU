@@ -35,10 +35,16 @@
       - [x] 顶部基本信息
       - [x] 主要内容区域
       - [ ] 底部评论(待评估)
+- [x] [im聊天](./docx/im聊天.md)
+  - [ ] 聊天列表
+  - [ ] 聊天界面
+- [ ] 寻搭
 - [x] 缺省图
 - [x] 错误重试
 
 # 部分截图
+
+已实现
 
 <p align = "center">    
   <img src="img/登录.jpg" width="30%" />
@@ -74,6 +80,25 @@
   <img src="img/图片预览.jpg" width="30%" />
 </p>
 
+待优化
+
+<p align = "center">    
+  <img src="img/聊天列表.jpg" width="30%" />
+  <img src="img/消息页.png" width="30%" />
+</p>
+
+<p align = "center">    
+  <img src="img/聊天页.png" width="30%" />
+  <img src="img/聊天界面.jpg" width="30%" />
+</p>
+
+待实现
+
+<p align = "center">    
+  <img src="img/首页寻搭2.png" width="30%" />
+  <img src="img/活动详情.png" width="30%" />
+  <img src="img/动态发布.png" width="30%" />
+</p>
 
 # 产品设计文档
 https://lxe4xw.axshare.com/?id=3fd07a523a8e4a81addb237859e49f42
