@@ -57,6 +57,10 @@ var to_messages = await db
 }
 ```
 
+![数据库结构](../img/数据库结构.png)
+
+
+
 **如果没有过消息**
 
 ```dart
