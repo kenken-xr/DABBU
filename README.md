@@ -109,6 +109,8 @@ memo 的作用是可以实现减少渲染重复未变数据。如果你的组件
   - [ ] 聊天列表
   - [ ] 聊天界面
 - [ ] 寻搭
+- [ ] 发布动态
+  - 参考 https://github.com/huangruiLearn/flutter_hrlweibo/tree/master
 - [x] [缺省图、基类封装、错误重试](./docx/基类封装.md)
   - 网络请求基于Retrofit+Dio实现，配合官方JsonSerialize实现解析
   - 网络请求的基础封装
